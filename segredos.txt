@@ -1,0 +1,26 @@
+Charles Babbage; Idealizou o primeiro computador mecânico programável do mundo. Considerado por muitos como o pai do computador:
+Ada Lovelace; Publicou o primeiro algoritmo para a máquina de Babbage. Considerada por muitos como a primeira programadora:
+Alan Turing; Seus trabalhos teóricos fundamentaram a computação moderna. Considerado por muitos como o pai da Ciência da Computação e da Inteligência Artificial:
+Claude Shannon; Seus trabalhos fundamentaram a revolução digital. Considerado por muitos como o pai da Teoria da Informação: 
+John von Neumann; A arquitetura proposta por ele tornou-se um referencial para os computadores modernos. Seus trabalhos contribuíram em diversas áreas do conhecimento: 
+Bit; Acrônimo para dígito binário cunhado por Claude Shannon:
+Byte; Unidade de informação digital composta por 8 bits, quantidade historicamente empregada para codificar um caractere de texto em um computador:
+CPU; Acrônimo, em inglês, para a unidade responsável por executar programas armazenados na memória. Considerado o cérebro do computador: 
+RAM; Acrônimo, em inglês, para um tipo de memória responsável por armazenar temporariamente dados e instruções que serão empregados pelo processador:
+ROM; Acrônimo, em inglês, para a memória de somente leitura empregada amplamente para armazenar firmwares, como a BIOS do computador:
+BIOS; Acrônimo, em inglês, para o programa resposável pela inicialização do hardware no momento que o computador é inicializado:
+HD; Acrônimo, em inglês, para o dipositivo responsável por armazenar dados empregando discos magnéticos: 
+SSD; Acrônimo, em inglês, para o dispositivo responsável por armazenar dados empregando circuitos integrados, geralmente memória flash:
+Hardware; Termo técnico empregado para descrever qualquer parte física de um computador ou dispostivo eletrônico:
+Software; Termo técnico empregado como sinônimo de programa: 
+Firmware; Termo técnico empregado para descrever um programa que fornece controle de baixo nível para o hardware:
+Unidade Lógica e Aritmética; Termo, em português, para a unidade responsável pelas operações lógicas e artiméticas no processador:
+Unidade de Controle; Termo, em português, para a unidade responsável por controlar as ações do processador:
+Algoritmo; Um conjunto de ações executadas para solucionar determinado problema:
+Sistema Operacional; Um programa ou conjunto de programas que gerenciam os recursos do sistema, servindo como uma interface entre o usuário e o computador:
+Linux; Nome dado ao kernel desenvolvido por Linus Torvalds, cujo projeto se tornou uma das maiores referências de código aberto do mundo:
+Inteligência Artificial; Campo da computação que visa fazer com que máquinas exibam aspectos considerados inteligentes:
+Machine Learning; Campo que estuda métodos que possibilitam que máquinas aprendam a executar tarefas por meio dos dados:
+Deep Learning; Subcampo de machine learning focado no estudo e aplicação de redes neurais artificiais: 
+C; Nome da linguagem de programação criada em 1972 por Dennis Ritchie. Considerada como a mãe de muitas linguagens modernas: 
+Python; Nome da linguagem de programação criada em 1991 por Guido van Rossum. Aplicada em muitas áreas, especialmente na Ciência de Dados. Talvez, a melhor linguagem do mundo, se você discorda, você está errado:
